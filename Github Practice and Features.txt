@@ -10,4 +10,4 @@ Git Hub Features and Practices
 
 5. Employment
 
-6. Status
+6. Current Status
