@@ -1,0 +1,13 @@
+Git Hub Features and Practices
+
+1. Name 
+
+2. DOB
+
+3. Native
+
+4. Qualification
+
+5. Employment
+
+6. Status
