@@ -11,3 +11,11 @@ Git Hub Features and Practices
 5. Employment
 
 6. Current Status
+
+7. Age
+
+8. Height
+
+9. Weight
+
+10. Martial Status
