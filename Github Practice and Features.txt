@@ -19,3 +19,7 @@ Git Hub Features and Practices
 9. Weight
 
 10. Martial Status
+
+11. Hobbies
+
+12. Ambitions
